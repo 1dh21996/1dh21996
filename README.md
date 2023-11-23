@@ -30,9 +30,13 @@
 
 ### MKTG
 <img src="https://img.shields.io/badge/PPT-333333?style=flat&logo=MicrosoftPowerPoint&logoColor=B7472A"> <img src="https://img.shields.io/badge/EXCEL-333333?style=flat&logo=MicrosoftExcel&logoColor=217346">
-<img src="https://img.shields.io/badge/TABLEAU-333333?style=flat&logo=Tableau&logoColor=E97627"> 
+
+<img src="https://img.shields.io/badge/TABLEAU-333333?style=flat&logo=Tableau&logoColor=E97627">
+
+<img src="https://img.shields.io/badge/PS-333333?style=flat&logo=AdobePhotoshop&logoColor=31A8FF"> <img src="https://img.shields.io/badge/AI-333333?style=flat&logo=AdobeIllustrator&logoColor=FF9A00">
 
 
-# View more
+# [*] MORE 
+<a href="google.com" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
- 
+# [*] CONTACT
