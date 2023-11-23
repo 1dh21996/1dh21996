@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=01cdff&height=170&text=DH's%20Github-nl-&desc=Data%20Engineering%20Marketing%&animation=twinkling&fontColor=ffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=01cdff&height=200&text=DH's%20Github-nl-&desc=Data%20Engineering%20|%20Growth%20Marketing%&fontColor=ffff)
 
 ### Introduce
 - 👋 Hello, my name's Dong Hyeon Han
