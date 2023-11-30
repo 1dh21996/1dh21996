@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=01cdff&height=200&text=DH's%20Github-nl-&desc=Data%20Engineering%20|%20Growth%20Marketing%&fontColor=ffff)
 
+
 ### Introduce
 - 👋 hello, my name's dong hyeon han
 
@@ -9,7 +10,10 @@
 
 <br>
 
+
 ### Stack
+
+
 ##### Engineering
 <img src="https://img.shields.io/badge/linux-333333?style=flat&logo=Linux&logoColor=FCC624">
 
@@ -24,10 +28,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1dh21996&theme=blue)
 
 
-### Common
-<img src="https://img.shields.io/badge/notion-333333?style=flat&logo=Notion&logoColor=000000"> <img src="https://img.shields.io/badge/figma-333333?style=flat&logo=Figma&logoColor=F24E1E"> <img src="https://img.shields.io/badge/obsidian-333333?style=flat&logo=Obsidian&logoColor=7C3AED">
-
-
 ##### Marketing
 <img src="https://img.shields.io/badge/ppt-333333?style=flat&logo=MicrosoftPowerPoint&logoColor=B7472A"> <img src="https://img.shields.io/badge/excel-333333?style=flat&logo=MicrosoftExcel&logoColor=217346">
 
@@ -36,8 +36,13 @@
 <img src="https://img.shields.io/badge/ps-333333?style=flat&logo=AdobePhotoshop&logoColor=31A8FF"> <img src="https://img.shields.io/badge/ai-333333?style=flat&logo=AdobeIllustrator&logoColor=FF9A00">
 
 
+##### Common
+<img src="https://img.shields.io/badge/notion-333333?style=flat&logo=Notion&logoColor=000000"> <img src="https://img.shields.io/badge/figma-333333?style=flat&logo=Figma&logoColor=F24E1E"> <img src="https://img.shields.io/badge/obsidian-333333?style=flat&logo=Obsidian&logoColor=7C3AED">
+
+
 ### [*] MORE 
 <a href="google.com" target="_blank"><img src="https://img.shields.io/badge/blogger-333333?style=flat&logo=blogger&logoColor=FF5722"/></a>
 <a href="google.com" target="_blank"><img src="https://img.shields.io/badge/notion-333333?style=flat&logo=Notion&logoColor=FFFFFF"/></a>
+
 
 ### [*] CONTACT
