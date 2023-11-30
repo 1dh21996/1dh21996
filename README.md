@@ -15,7 +15,7 @@
 
 <img src="https://img.shields.io/badge/python-333333?style=flat&logo=Python&logoColor=3776AB"> <img src="https://img.shields.io/badge/numpy-333333?style=flat&logo=Numpy&logoColor=013243"> <img src="https://img.shields.io/badge/pandas-333333?style=flat&logo=pandas&logoColor=150458"> 
 
-<img src="https://img.shields.io/badge/html5-333333?style=flat&logo=HTML5&logoColor=E34F26"> <img src="https://img.shields.io/badge/css3-333333?style=flat&logo=css3&logoColor=1572B6"> <img src="https://img.shields.io/badge/js-333333?style=flat&logo=JavaScript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/html-333333?style=flat&logo=HTML5&logoColor=E34F26"> <img src="https://img.shields.io/badge/css3-333333?style=flat&logo=css&logoColor=1572B6"> <img src="https://img.shields.io/badge/js-333333?style=flat&logo=JavaScript&logoColor=F7DF1E">
 
 <img src="https://img.shields.io/badge/git-333333?style=flat&logo=Git&logoColor=F05032"> <img src="https://img.shields.io/badge/vsc-333333?style=flat&logo=VisualStudioCode&logoColor=007ACC"> <img src="https://img.shields.io/badge/jupyter-333333?style=flat&logo=Jupyter&logoColor=F37626">
 
@@ -37,6 +37,7 @@
 
 
 ### [*] MORE 
-<a href="google.com" target="_blank"><img src="https://img.shields.io/badge/notion-333333?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="google.com" target="_blank"><img src="https://img.shields.io/badge/blogger-333333?style=flat&logo=blogger&logoColor=FF5722"/></a>
+<a href="google.com" target="_blank"><img src="https://img.shields.io/badge/notion-333333?style=flat&logo=Notion&logoColor=white"/></a>
 
 ### [*] CONTACT
