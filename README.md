@@ -37,7 +37,7 @@
 
 
 ##### Common
-<img src="https://img.shields.io/badge/notion-333333?style=flat&logo=Notion&logoColor=000000"> <img src="https://img.shields.io/badge/figma-333333?style=flat&logo=Figma&logoColor=F24E1E"> <img src="https://img.shields.io/badge/obsidian-333333?style=flat&logo=Obsidian&logoColor=7C3AED">
+<img src="https://img.shields.io/badge/notion-333333?style=flat&logo=Notion&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/figma-333333?style=flat&logo=Figma&logoColor=F24E1E"> <img src="https://img.shields.io/badge/obsidian-333333?style=flat&logo=Obsidian&logoColor=7C3AED">
 
 
 ### [*] MORE 
