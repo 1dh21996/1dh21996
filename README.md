@@ -38,6 +38,6 @@
 
 ### [*] MORE 
 <a href="google.com" target="_blank"><img src="https://img.shields.io/badge/blogger-333333?style=flat&logo=blogger&logoColor=FF5722"/></a>
-<a href="google.com" target="_blank"><img src="https://img.shields.io/badge/notion-333333?style=flat&logo=Notion&logoColor=000000"/></a>
+<a href="google.com" target="_blank"><img src="https://img.shields.io/badge/notion-333333?style=flat&logo=Notion&logoColor=FFFFFF"/></a>
 
 ### [*] CONTACT
