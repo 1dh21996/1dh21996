@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=01cdff&height=200&text=DH's%20Github-nl-&desc=Data%20Engineering%20|%20Growth%20Marketing%&fontColor=ffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=01cdff&height=200&text=DH's%20Github-nl-&desc=Data%20Engineering%20|%20Data%20Driven%20Marketing%&fontColor=ffff)
 
 
 ### Introduce
@@ -17,9 +17,9 @@
 ##### Engineering
 <img src="https://img.shields.io/badge/linux-333333?style=flat&logo=Linux&logoColor=FCC624">
 
-<img src="https://img.shields.io/badge/python-333333?style=flat&logo=Python&logoColor=3776AB"> <img src="https://img.shields.io/badge/numpy-333333?style=flat&logo=Numpy&logoColor=013243"> <img src="https://img.shields.io/badge/pandas-333333?style=flat&logo=pandas&logoColor=150458"> 
+<img src="https://img.shields.io/badge/python-333333?style=flat&logo=Python&logoColor=3776AB">　<img src="https://img.shields.io/badge/numpy-333333?style=flat&logo=Numpy&logoColor=013243"> <img src="https://img.shields.io/badge/pandas-333333?style=flat&logo=pandas&logoColor=150458"> <img src="https://img.shields.io/badge/polars-333333?style=flat&logo=polars&logoColor=#CD792C"> 　 <img src="https://img.shields.io/badge/sklearn-333333?style=flat&logo=scikit-learn&logoColor=#F7931E"> <img src="https://img.shields.io/badge/keras-333333?style=flat&logo=keras&logoColor=150458">
 
-<img src="https://img.shields.io/badge/html-333333?style=flat&logo=HTML5&logoColor=E34F26"> <img src="https://img.shields.io/badge/css3-333333?style=flat&logo=css&logoColor=1572B6"> <img src="https://img.shields.io/badge/js-333333?style=flat&logo=JavaScript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/html-333333?style=flat&logo=HTML5&logoColor=E34F26"> <img src="https://img.shields.io/badge/css-333333?style=flat&logo=css3&logoColor=#1572B6"> <img src="https://img.shields.io/badge/js-333333?style=flat&logo=JavaScript&logoColor=F7DF1E">
 
 <img src="https://img.shields.io/badge/git-333333?style=flat&logo=Git&logoColor=F05032"> <img src="https://img.shields.io/badge/vsc-333333?style=flat&logo=VisualStudioCode&logoColor=007ACC"> <img src="https://img.shields.io/badge/jupyter-333333?style=flat&logo=Jupyter&logoColor=F37626">
 
